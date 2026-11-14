@@ -1,0 +1,4 @@
+model,label,C,gamma,sigma,cv_accuracy
+L1 balanced,Family,10,,,0.9314935782132603
+L1 balanced,Genus,10,,,0.9479791883618922
+L1 balanced,Species,1,,,0.9581009971914545
